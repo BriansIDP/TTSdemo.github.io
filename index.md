@@ -21,6 +21,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+<audio controls=""><source src="test_speaker_number_14_200751_5465.wav"></audio>
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
